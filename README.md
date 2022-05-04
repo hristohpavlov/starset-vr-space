@@ -18,5 +18,5 @@ Once started, the demo allows the user to navigate through procedurally generate
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)\
 [@hristohpavlov](hristohpavlov@gmail.com)
