@@ -1,6 +1,6 @@
 # Starset - VR space simulation
 
-
+## Hristo Pavlov - 1812146
 
 Starset is the technical implementation submitted as a partial requirement for the degree of BSc (Hons) Computer Science at the School of Computing, Robert Gordon University, Aberdeen
 
